@@ -1,0 +1,9 @@
+mission_id,mission_name,mission_description,country_of_origin,countries_allowed_list,coor_name,jobs,employees_require,cargo_require,launch_date,destination_location,mission_duration,mission_status,has_shuttle,can_reject,recruitment_status
+7004,mission1,"Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec",Austria,Austria,Angela Sexton,"software enginner,have a good programming",enginners,mission,30/09/2022,melbourn,35,35,765,TRUE,FALSE
+7006,mission2,"nec, imperdiet nec, leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit",American,American,Hilda Neal,"project manager,familiar with process of project",builders,concrete,8/9/2025,Sydeny,32,Planning phase,775,TRUE,FALSE
+7009,mission3,turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris blandit,Boston,China,Megan Dixon,"software enginner,have a good programming",project manager,desserts,26/04/2021,Adelaide,31,Planning phase,785,FALSE,FALSE
+7010,mission4,it is a good mission,china,china,jack,"software enginner,have a good programming",enginners,water,2/2/2002,china,35,Planning phase ,0,FALSE,FALSE
+123,131,eqwe,we,eqw,qweq,"['infrastructure', 'railways, town planning']",dfwdrwe,qweqweq,213,qeqwe,reqwe,weqwe,0,FALSE,FALSE
+12333,1231,4qe4q,eqwe,qwaeqwe,eqwe,['infrastructure'],erwer,qwewq,erqwe,rew,erw,rwer,0,FALSE,FALSE
+13123,ewqw,eqwe,ewq,ewq,ewq,['infrastructure'],{'builder': 12},qwew,qweqwe,qwe,qwe,qweq,0,FALSE,FALSE
+222333,wqeqw,qweq,qweqw,qweq,qwe,['infrastructure'],{'designer': 3},"{'beef': 10, 'surgical': 3}",13212,eqwe,321,wqeeqqq,0,FALSE,FALSE

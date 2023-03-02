@@ -1,0 +1,12 @@
+identification,name,date of birth,street,country,identification type,gender,allergies,food preferences,qualifications,years of work experience,occupation,computer skills,languages known,criminal_records,health_record,received_offer
+2176,jimmy,07/22/2000,"P.O. Box 549, 3604 Etiam Rd.",Heard Island and Mcdonald Islands,PAN,male,cereals,vegan,"ME, MDS",3yr,,expert,"portugese, french",False,True,"mission1,mission2,mission1"
+2178,Bianca Espinoza,12/07/1986,"P.O. Box 420, 1567 Purus St.",Grenada,SSN,female,pork,kosher,"BDS, MS",,electrical engineer,expert,", bengali, russian",False,True,mission2
+2180,Anika Frost,03/10/2002,8904 Ante Ave,Andorra,ABN,male,peanuts,kosher,,,general practitioner,advanced,malay,True,False,"mission1,mission2"
+2182,Kessie Barlow,01/24/1995,Ap #286-3953 At Rd.,Turkmenistan,ADHAAR,female,pasta,kosher,"MBA, BDS","10yr, 2yr","painter, electrician, plumber",expert,"french, spanish, russian",True,True,"mission3,mission1"
+2184,Lawrence Campbell,01/21/1994,Ap #285-7993 Nisl Ave,Kazakhstan,ABN,male,cereals,halal,"MIT, MS",,builder,expert,"hindi, mandarin, italian, russian",False,False,"mission2,mission2"
+2186,Allistair Gilbert,04/21/2009,"P.O. Box 963, 196 Taciti St.",Japan,SSN,female,none,halal,BE,"12yr, 8yr",,expert,,True,False,"mission1,mission1"
+2188,Jaden Curtis,09/09/1982,454 Euismod St.,Syria,PAN,male,peanuts,kosher,"MS, MDS","2yr, 7yr",,advanced,"bengali, arabic",False,True,
+2190,Alika Reynolds,08/06/2000,Ap #913-1525 Consequat Rd.,Spain,ADHAAR,female,beef,vegan,BE,"15yr, 6yr","civil engineer, surgeon",intermediate,,True,False,mission3
+2192,Dante Mcgowan,02/06/1990,"P.O. Box 922, 8478 Habitant Street",Tunisia,SSN,female,pasta,vegan,,"12yr, 5yr",,advanced,"french, bengali, hausa",False,False,"mission1,mission2"
+2144,awd,awd,awwd,adw,awdw,wawd,wd,awwd,awd,awd,jacj,awd,awd,False,False,
+1,2176,1995,melbourne,Austrilia,1,male,1,vegan,MIT,10YEARS,BUILDER,expert,french,False,False,
